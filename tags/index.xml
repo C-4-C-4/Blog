@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on C4 Blog</title>
+        <link>https://govs.ink/tags/</link>
+        <description>Recent content in Tags on C4 Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>CCCC4444</copyright>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://govs.ink/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Css</title>
+        <link>https://govs.ink/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>https://govs.ink/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://govs.ink/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://govs.ink/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tag With Whitespaces</title>
+        <link>https://govs.ink/tags/tag-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/tag-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Text</title>
+        <link>https://govs.ink/tags/text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/text/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Emoji</title>
+        <link>https://govs.ink/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://govs.ink/tags/emoji/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
