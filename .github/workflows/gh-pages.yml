@@ -25,13 +25,13 @@ jobs:
 
       - name: Build
         run: hugo -D 
-        working-directory: ./dev # 注意修改成你使用hugo创建的项目名称
+        working-directory: ./ # 注意修改成你使用hugo创建的项目名称
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           PERSONAL_TOKEN: ${{ secrets.blog }}
-          PUBLISH_DIR: ./dev/public # 注意修改成你使用hugo创建的项目名称
+          PUBLISH_DIR: ./public # 注意修改成你使用hugo创建的项目名称
           EXTERNAL_REPOSITORY: C-4-C-4/blog # 你的Github Pages远程仓库名
           # PUBLISH_BRANCH: master 如果不想推送到gh-pages分支，可以添加这一行
