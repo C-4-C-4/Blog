@@ -7,7 +7,16 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>CCCC4444</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://govs.ink/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 May 2025 20:49:48 +0800</lastBuildDate><atom:link href="https://govs.ink/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MyFirsBlog</title>
+        <link>https://govs.ink/p/myfirsblog/</link>
+        <pubDate>Sun, 04 May 2025 20:49:48 +0800</pubDate>
+        
+        <guid>https://govs.ink/p/myfirsblog/</guid>
+        <description>&lt;p&gt;###Hello Word&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://govs.ink/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
